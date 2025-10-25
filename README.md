@@ -18,17 +18,13 @@
   </a>
 </div>
 
-## Contact
+## Others
 
 <div align="center">
   <a href="https://www.linkedin.com/in/carandp/" target="_blank">
     <img alt="LinkedIn Logo" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png"/>
-  </a>
-</div>
-
-## Others
-
-<div align="center">
+  </a> &nbsp;&nbsp;
+  
   <a href="https://leetcode.com/u/carandp/" target="_blank">
     <img alt="LeetCode Logo" height="50" width="135" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636589930913/GUHhK3FKZ.jpeg"/>
   </a> &nbsp;&nbsp;
