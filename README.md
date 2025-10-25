@@ -12,7 +12,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,ts,react,nestjs,flutter,firebase,docker,clion,gcp" alt="Skills"> <br> 
 </div>
 
-## My Stats
+## Stats
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=carandp&theme=dark" alt="GitHub Streak" />
@@ -35,12 +35,10 @@
   </a>
 </div>
 
-## My Contribution Graph
+## Contribution Graph
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carandp/carandp/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carandp/carandp/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/carandp/carandp/output/pacman-contribution-graph.svg">
 </picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
