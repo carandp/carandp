@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![linkedinbanner_obscure](https://github.com/user-attachments/assets/f195c72b-4687-49bc-a068-cb703bf2f939)
+
+
+
 <!--
 **carandp/carandp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
