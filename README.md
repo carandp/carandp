@@ -5,6 +5,7 @@
 -  I'm a final-year CS Student @ Universidad de Los Andes.
 -  I'm passionate about software engineering, problem solving, and algorithm design.
 -  I enjoy competitive programming, I’ve participated in the **ICPC** at both national and regional levels.
+-  Outside of programming, I’m passionate about hands-on projects, especially building LEGO and assembling desktop PCs.
 
 ## Skills
 <div align="center">
