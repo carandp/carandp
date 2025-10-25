@@ -11,8 +11,12 @@
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,ts,react,nestjs,flutter,firebase,docker,clion,gcp" alt="Skills"> <br> 
 </div>
 
-
-
+## My Stats
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=carandp&theme=dark" alt="GitHub Streak" />
+  </a>
+</div>
 
 
 
