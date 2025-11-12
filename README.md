@@ -9,7 +9,7 @@
 
 ### Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,ts,react,nestjs,flutter,firebase,docker,clion,gcp" alt="Skills"> <br> 
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,ts,react,nestjs,flutter,firebase,gcp,aws,docker" alt="Skills"> <br> 
 </div>
 
 ### Contribution Graph
