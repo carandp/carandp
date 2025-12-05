@@ -24,7 +24,7 @@
 
 <div align="center">  
   <a href="https://leetcode.com/u/carandp/" target="_blank">
-    <img alt="LeetCode Logo" height="50" width="135" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636589930913/GUHhK3FKZ.jpeg"/>
+    <img alt="LeetCode Logo" height="50" width="135" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png"/>
   </a> &nbsp;&nbsp;
   
   <a href="https://codeforces.com/profile/carandp" target="_blank">
