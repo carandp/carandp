@@ -3,9 +3,8 @@
 ### About
 -  Hi, I'm @carandp.
 -  I'm a final-year CS Student @ Universidad de Los Andes.
--  I'm passionate about cyber security, problem solving, and algorithm design.
--  I enjoy competitive programming, I’ve participated in the **ICPC** at both national and regional levels.
--  Outside of programming, I’m passionate about hands-on projects, especially building LEGO and assembling desktop PCs.
+-  Passionate about security engineering, algorithms, and high-impact problem solving.
+-  Known for clear mentorship, disciplined execution, and a strong commitment to quality and integrity.
 
 ### Skills
 <div align="center">
