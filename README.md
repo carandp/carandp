@@ -12,14 +12,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,ts,react,nestjs,flutter,firebase,gcp,aws,docker" alt="Skills"> <br> 
 </div>
 
-### Contribution Graph
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carandp/carandp/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carandp/carandp/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/carandp/carandp/output/pacman-contribution-graph.svg">
-</picture>
-
 ### Other
 
 <div align="center">  
