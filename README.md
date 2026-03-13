@@ -5,7 +5,7 @@
 -  I'm a final-year CS Student @ Universidad de Los Andes.
 -  Passionate about security engineering, algorithms, and high-impact problem solving.
 -  Known for clear mentorship, disciplined execution, and a strong commitment to quality and integrity.
--  Curriculum Vitae: [here](https://github.com/carandp/carandp/blob/main/Carlos_Pena_CV.pdf)
+-  Curriculum Vitae: [here](https://github.com/carandp/carandp/blob/main/Carlos_Pena_CV_1.3.pdf)
 
 ### Skills
 <div align="center">
