@@ -11,15 +11,3 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,ts,react,nestjs,flutter,firebase,gcp,aws,docker" alt="Skills"> <br> 
 </div>
-
-### Other
-
-<div align="center">  
-  <a href="https://leetcode.com/u/carandp/" target="_blank">
-    <img alt="LeetCode Logo" height="50" width="135" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png"/>
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://codeforces.com/profile/carandp" target="_blank">
-    <img alt="Codeforces Logo" height="50" width="220" src="https://codeforces.org/s/39685/images/codeforces-sponsored-by-ton.png"/>
-  </a>
-</div>
