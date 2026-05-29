@@ -2,7 +2,8 @@
 
 ### About
 -  Hi, I'm @carandp.
--  I'm a final-year CS Student @ Universidad de Los Andes.
+-  I'm a Systems and Computing Engineer from Uniandes.
+-  Incoming Software Engineering Intern at Nubank.
 -  Passionate about security engineering, algorithms, and high-impact problem solving.
 -  Known for clear mentorship, disciplined execution, and a strong commitment to quality and integrity.
 
